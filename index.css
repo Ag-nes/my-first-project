@@ -1,9 +1,3 @@
-* {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-}
-
 .header {
     align-items: center;
     text-align: center;
@@ -144,3 +138,7 @@ input::placeholder {
     cursor: pointer;
     border: none;
 }
+* {
+    padding: 200;
+    margin: 0;
+    box-sizing: border-box
