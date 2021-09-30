@@ -169,3 +169,12 @@ input::placeholder {
         align-items: top;
         text-align: center;
     }
+
+    enquire {
+        color: #fff;
+        font-size: 1.1rem;
+        font-family: monospace;
+        margin-bottom: 10px;
+        font-weight: lighter;
+        padding: 20px 0px;
+    }
