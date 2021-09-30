@@ -141,4 +141,13 @@ input::placeholder {
 * {
     padding: 200;
     margin: 0;
-    box-sizing: border-box
+    box-sizing: border-box}
+    {width: 90%;
+        padding: 20px;
+        font-size: 1rem;
+        text-transform: uppercase;
+        letter-spacing: .3rem;
+        cursor: pointer;
+        border: none;
+               
+    }
