@@ -178,3 +178,7 @@ input::placeholder {
         font-weight: lighter;
         padding: 20px 0px;
     }
+
+    .contact-form input{
+        display: outline-flex;
+    }
